@@ -1,3 +1,2 @@
-#Journey to Software Engineering
-
-I am on the journey to become a full stack developer and an ethical hacker.
+#Starting to code
+Coding is awesome, can't wait to be a professional 

@@ -1,2 +1,1 @@
-#Getting started with git
-
+#Getting started on Git
